@@ -16,7 +16,12 @@ Throughout my academic journey, I've completed various coding projects, with a p
 🔭 I’m currently working on Kotlin and actively engaged in Android app development as an intern at TCS.
 
 
-📫 LinkedIn: https://www.linkedin.com/in/fahad-farrukh-ff26/
+<p align="center">
+  <a href="https://www.linkedin.com/in/fahad-farrukh-ff26/" target="_blank">
+    <img src="linkedin-button.png" alt="LinkedIn Profile" height="40" width="160">
+  </a>
+</p>
+
 
 
 Feel free to reach out and collaborate with me. Let's turn ideas into reality through the power of code! 🚀
