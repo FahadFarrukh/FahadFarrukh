@@ -13,7 +13,7 @@ My experience extends to the fascinating fields of Artificial Intelligence and M
 Throughout my academic journey, I've completed various coding projects, with a primary focus on crafting responsive and dynamic websites, creating mobile applications, and developing efficient software systems. My varied skills have transformed me into a well-rounded full-stack developer who is passionate about creative problem-solving and innovation. 📱✨
 
 
-🔭 I’m currently working on Kotlin and actively engaged in Android app development as an intern at TCS.
+I’m currently working on Kotlin and actively engaged in Android app development as an intern at TCS. 🔭✨
 
     
 
@@ -39,7 +39,7 @@ Throughout my academic journey, I've completed various coding projects, with a p
 
 
 
-Feel free to reach out and collaborate with me and bring creative ideas to life through the incredible world of coding. Let's work together to turn these ideas into remarkable achievements powered by code! 🚀
+Feel free to reach out and collaborate with me and bring creative ideas to life through the incredible world of coding. Let's work together to turn these ideas into remarkable achievements powered by code! 🚀✨
 
 <!--
 **FahadFarrukh/FahadFarrukh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
