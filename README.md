@@ -20,16 +20,17 @@ Throughout my academic journey, I've completed various coding projects, with a p
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fahad-farrukh-ff26/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn Profile">
+  <a href="https://www.linkedin.com/in/fahad-farrukh-ff26/" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn Profile" height="40" width="150">
   </a>
-  <a href="https://github.com/FahadFarrukh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-green?style=for-the-badge" alt="GitHub Profile">
+  <a href="https://github.com/FahadFarrukh" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/GitHub-green?style=for-the-badge" alt="GitHub Profile" height="40" width="150">
   </a>
   <a href="mailto:fahadfarrukh26@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge" alt="Gmail Contact">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge" alt="Gmail Contact" height="40" width="150">
   </a>
 </p>
+
 
 
 Feel free to reach out and collaborate with me. Let's turn ideas into reality through the power of code! 🚀
