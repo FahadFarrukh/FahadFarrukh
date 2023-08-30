@@ -24,13 +24,13 @@ I’m currently working on Kotlin and actively engaged in Android app developmen
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fahad-farrukh-ff26/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn Profile" height="40">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn Profile" height="35">
   </a>
   <a href="https://github.com/FahadFarrukh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-green?style=for-the-badge" alt="GitHub Profile" height="40">
+    <img src="https://img.shields.io/badge/GitHub-green?style=for-the-badge" alt="GitHub Profile" height="35">
   </a>
   <a href="mailto:fahadfarrukh26@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge" alt="Gmail Contact" height="40">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge" alt="Gmail Contact" height="35">
   </a>
 </p>
 
