@@ -18,9 +18,7 @@ Throughout my academic journey, I've completed various coding projects, with a p
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fahad-farrukh-ff26/" target="_blank">
-    <button style="padding: 10px 20px; background-color: #0077B5; color: #ffffff; border: none; border-radius: 5px; cursor: pointer;">
-      LinkedIn Profile
-    </button>
+    <img src="linkedin-button.png" alt="LinkedIn Profile" height="40" width="160">
   </a>
 </p>
 
