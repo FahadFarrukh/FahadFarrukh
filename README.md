@@ -4,7 +4,7 @@
 Greetings! 👋 I am Fahad Farrukh, currently in the final year of my Bachelor of Computer Science program at DHA Suffa University. 
 
 
-I have a versatile skill set in the world of development. I have a strong background in web development, specializing in technologies like PHP, HTML, CSS, and JavaScript. Furthermore, I have significant experience in mobile app development with Flutter/Dart and Kotlin for Android. My coding proficiency extends to languages such as C, C++, Java, Python, and even COAL Assembly Language. I'm well-versed in Object-Oriented Programming, Data Structures, and Database Management Systems using SQL. In addition, I'm skilled in navigating the Linux OS environment. 🌐🚀
+I have a versatile skill set in the world of development. I have a strong background in web development, specializing in technologies like PHP, HTML, CSS, and JavaScript. Furthermore, I have significant experience in mobile app development with Flutter/Dart and Kotlin for Android. My coding proficiency extends to languages such as C, C++, Java, Python, and COAL Assembly Language. I'm well-versed in Object-Oriented Programming, Data Structures, and Database Management Systems using SQL. In addition, I'm skilled in navigating the Linux OS environment. 🌐🚀
 
 
 My experience extends to the fascinating fields of Artificial Intelligence and Machine Learning aswell, where I've successfully completed projects and acquired in-depth knowledge of various machine learning algorithms and AI concepts, further enhancing my journey in the tech world. ⚡💻
