@@ -15,6 +15,9 @@ Throughout my academic journey, I've completed various coding projects, with a p
 
 🔭 I’m currently working on Kotlin and actively engaged in Android app development as an intern at TCS.
 
+    
+
+
 
 <h1 align="center">Connect With Me</h1>
 
@@ -30,6 +33,9 @@ Throughout my academic journey, I've completed various coding projects, with a p
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge" alt="Gmail Contact" height="40">
   </a>
 </p>
+
+
+
 
 
 
