@@ -16,10 +16,11 @@ Throughout my academic journey, I've completed various coding projects, with a p
 🔭 I’m currently working on Kotlin and actively engaged in Android app development as an intern at TCS.
 
 <h1 align="center">Connect With Me</h1>
-<p></p>
-  <a href="https://www.linkedin.com/in/fahad-farrukh-ff26/" target="_blank">
-   <p> </p>
-  </a>
+
+
+My Linkedin: https://www.linkedin.com/in/fahad-farrukh-ff26/
+My Github: https://github.com/FahadFarrukh
+My Email: fahadfarrukh26@gmail.com
 
 
 
