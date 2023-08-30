@@ -16,11 +16,11 @@ Throughout my academic journey, I've completed various coding projects, with a p
 🔭 I’m currently working on Kotlin and actively engaged in Android app development as an intern at TCS.
 
 <h1 align="center">Connect With Me</h1>
-<p align="center">
+<p></p>
   <a href="https://www.linkedin.com/in/fahad-farrukh-ff26/" target="_blank">
-    <img src="linkedin-button.png" alt="LinkedIn Profile" height="40" width="160">
+   <p> </p>
   </a>
-</p>
+
 
 
 
