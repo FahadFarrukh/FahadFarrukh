@@ -18,13 +18,17 @@ Throughout my academic journey, I've completed various coding projects, with a p
 <h1 align="center">Connect With Me</h1>
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/fahad-farrukh-ff26/)
-
-My Github: https://github.com/FahadFarrukh
-
-My Email: fahadfarrukh26@gmail.com
-
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/fahad-farrukh-ff26/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn Profile" height="30">
+  </a>
+  <a href="https://github.com/FahadFarrukh" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-green" alt="GitHub Profile" height="30">
+  </a>
+  <a href="mailto:fahadfarrukh26@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-Contact-red" alt="Gmail Contact" height="30">
+  </a>
+</p>
 
 
 Feel free to reach out and collaborate with me. Let's turn ideas into reality through the power of code! 🚀
