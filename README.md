@@ -20,14 +20,14 @@ Throughout my academic journey, I've completed various coding projects, with a p
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fahad-farrukh-ff26/" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn Profile" height="40" width="150">
+  <a href="https://www.linkedin.com/in/fahad-farrukh-ff26/" target="_blank" >
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn Profile" height="40" width="110" style="margin: 10px;">
   </a>
-  <a href="https://github.com/FahadFarrukh" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/GitHub-green?style=for-the-badge" alt="GitHub Profile" height="40" width="150">
+  <a href="https://github.com/FahadFarrukh" target="_blank" >
+    <img src="https://img.shields.io/badge/GitHub-green?style=for-the-badge" alt="GitHub Profile" height="40" width="110" style="margin: 10px;">
   </a>
   <a href="mailto:fahadfarrukh26@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge" alt="Gmail Contact" height="40" width="150">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge" alt="Gmail Contact" height="40" width="110" style="margin: 10px;">
   </a>
 </p>
 
