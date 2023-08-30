@@ -18,11 +18,11 @@ Throughout my academic journey, I've completed various coding projects, with a p
 <h1 align="center">Connect With Me</h1>
 
 
-My Linkedin: https://www.linkedin.com/in/fahad-farrukh-ff26/<p>\n</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/fahad-farrukh-ff26/)
 
-My Github: https://github.com/FahadFarrukh<p>\n</p>
+My Github: https://github.com/FahadFarrukh
 
-My Email: fahadfarrukh26@gmail.com<p>\n</p>
+My Email: fahadfarrukh26@gmail.com
 
 
 
