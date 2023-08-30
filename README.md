@@ -10,23 +10,24 @@ I have a versatile skill set in the world of development. I have a strong backgr
 My experience extends to the fascinating fields of Artificial Intelligence and Machine Learning aswell, where I've successfully completed projects and acquired in-depth knowledge of various machine learning algorithms and AI concepts, further enhancing my journey in the tech world. ⚡💻
 
 
-Throughout my academic journey, I've completed various coding projects, with a primary focus on crafting responsive and dynamic websites, creating mobile applications, and developing efficient software systems. This diverse expertise has shaped me into a well-rounded full-stack developer who thrives on innovation and problem-solving. 📱✨
+Throughout my academic journey, I've completed various coding projects, with a primary focus on crafting responsive and dynamic websites, creating mobile applications, and developing efficient software systems. My varied skills have transformed me into a well-rounded full-stack developer who is passionate about creative problem-solving and innovation. 📱✨
 
 
 🔭 I’m currently working on Kotlin and actively engaged in Android app development as an intern at TCS.
+
 
 <h1 align="center">Connect With Me</h1>
 
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fahad-farrukh-ff26/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue" alt="LinkedIn Profile" height="30">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge" alt="LinkedIn Profile">
   </a>
   <a href="https://github.com/FahadFarrukh" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Profile-green" alt="GitHub Profile" height="30">
+    <img src="https://img.shields.io/badge/GitHub-green?style=for-the-badge" alt="GitHub Profile">
   </a>
   <a href="mailto:fahadfarrukh26@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red" alt="Gmail Contact" height="30">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge" alt="Gmail Contact">
   </a>
 </p>
 
