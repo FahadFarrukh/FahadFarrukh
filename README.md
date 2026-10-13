@@ -1,9 +1,9 @@
 <picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/hero-mobile-dark.svg">
-  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./assets/hero-mobile-light.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
-  <img src="./assets/hero-dark.svg" alt="Fahad Farrukh — AI & Data Engineer. From data foundations to intelligent applications." width="100%">
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./hero-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="./hero-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="./hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./hero-light.svg">
+  <img src="./hero-dark.svg" alt="Fahad Farrukh — AI & Data Engineer. From data foundations to intelligent applications." width="100%">
 </picture>
 
 <p align="center">
