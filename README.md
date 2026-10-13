@@ -1,16 +1,17 @@
+
 <!--
   GITHUB PROFILE // FAHAD FARRUKH
-  All visual assets in /assets are handcrafted, self-contained animated SVGs.
-  No JavaScript, browser APIs, embedded iframes, or invented repository links.
-  Animations run in SVG-capable browsers; reduced-motion preference is respected.
+  Futuristic AI & Data Engineering GitHub Profile
+  Animated SVG files are stored in the repository root.
+  No JavaScript or embedded iframes required.
 -->
 
 <div align="center">
-  <img src="./assets/hero.svg" alt="Fahad Farrukh — AI & Data Engineer | Animated Neural Network Banner" width="100%" />
+  <img src="./hero.svg" alt="Fahad Farrukh — AI & Data Engineer | Animated Neural Network Banner" width="100%" />
 </div>
 
 <div align="center">
-  <img src="./assets/terminal.svg" alt="Animated terminal: AI Engineering, Data Engineering, NLP Research, Python, SQL, and Cloud" width="100%" />
+  <img src="./terminal.svg" alt="Animated terminal: AI Engineering, Data Engineering, NLP Research, Python, SQL, and Cloud" width="100%" />
 </div>
 
 <p align="center">
@@ -52,7 +53,7 @@ My work spans **agentic AI and RAG**, **machine learning and NLP research**, **l
 > **Engineering mindset:** build the data foundation, validate the models, design the integrations, and make the result useful.
 
 <div align="center">
-  <img src="./assets/pipeline.svg" alt="Animated pipeline connecting data sources, lakehouse, AI and machine learning, and applications" width="100%" />
+  <img src="./pipeline.svg" alt="Animated pipeline connecting data sources, lakehouse, AI and machine learning, and applications" width="100%" />
 </div>
 
 <a name="experience"></a>
@@ -91,7 +92,8 @@ Research on **VisIA**, an AI assistant for blind and visually impaired users, fo
 <a name="projects"></a>
 ## `03 // SELECTED PROJECTS` 🚀
 
-<!-- Project links deliberately point only to a general repository listing where project-specific repos have not been verified. -->
+<!-- Project-specific links are omitted where public repositories have not been verified. -->
+
 <table>
   <tr>
     <td width="50%" valign="top">
