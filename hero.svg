@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="410" viewBox="0 0 1280 410" role="img" aria-label="Fahad Farrukh — AI &amp; Data Engineer. Animated neural network and futuristic circuit board.">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#060b16"/><stop offset=".55" stop-color="#07151f"/><stop offset="1" stop-color="#03080e"/></linearGradient>
+ <linearGradient id="aqua" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#64ffdc"/><stop offset=".5" stop-color="#22d3ee"/><stop offset="1" stop-color="#818cf8"/></linearGradient>
+ <radialGradient id="glow"><stop stop-color="#0cc6d3" stop-opacity=".23"/><stop offset="1" stop-color="#0cc6d3" stop-opacity="0"/></radialGradient>
+ <pattern id="grid" width="46" height="46" patternUnits="userSpaceOnUse"><path d="M46 0H0V46" fill="none" stroke="#163044" stroke-opacity=".55" stroke-width=".8"/></pattern>
+ <filter id="blur"><feGaussianBlur stdDeviation="15"/></filter>
+ <filter id="halo"><feGaussianBlur stdDeviation="2.9"/></filter>
+ <clipPath id="reveal"><rect x="0" y="91" width="790" height="74" class="reveal"/></clipPath>
+</defs>
+<style>
+@keyframes breathe{0%,100%{opacity:.48}50%{opacity:1}}@keyframes drift{0%,100%{transform:translateY(0)}50%{transform:translateY(-9px)}}@keyframes flow{to{stroke-dashoffset:-150}}@keyframes orbit{to{transform:rotate(360deg)}}@keyframes wink{0%,48%,52%,100%{opacity:1}50%{opacity:.1}}@keyframes nodal{0%,100%{r:5;opacity:.72}50%{r:8;opacity:1}}@keyframes reveal{from{transform:scaleX(0)}to{transform:scaleX(1)}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}
+.reveal{transform-origin:0 0;animation:reveal 2.2s ease-out backwards}.pulse{animation:breathe 3s ease-in-out infinite}.drift{animation:drift 5s ease-in-out infinite}.flow{animation:flow 9s linear infinite}.blink{animation:wink 1.4s steps(1) infinite}.orbit{transform-origin:1060px 191px;animation:orbit 30s linear infinite}.node{animation:nodal 3s ease-in-out infinite}
+</style>
+<rect width="1280" height="410" rx="21" fill="url(#bg)"/>
+<rect x="1.5" y="1.5" width="1277" height="407" rx="19" fill="none" stroke="#19aebc" stroke-opacity=".62" stroke-width="2.5"/>
+<rect x="0" y="0" width="1280" height="410" rx="21" fill="url(#grid)" opacity=".28"/>
+<circle cx="1038" cy="204" r="280" fill="url(#glow)"/>
+<!-- decorative circuit traces -->
+<g stroke="#1cc6d6" stroke-width="1.1" fill="none" opacity=".36"><path d="M36 82h90l32-30h115"/><path d="M40 317h145l35 35h130"/><path d="M850 39h-105l-35 36"/><path d="M1130 364h110"/><path d="M1260 95h-62l-28 28"/></g>
+<g fill="#1fced7" opacity=".7"><circle cx="38" cy="82" r="3"/><circle cx="350" cy="352" r="3"/><circle cx="745" cy="39" r="3"/><circle cx="1239" cy="364" r="3"/></g>
+<!-- top status rail -->
+<circle cx="69" cy="47" r="4" fill="#39fbc1" class="pulse"/><text x="85" y="52" fill="#9fbbc8" font-family="Consolas,Monaco,monospace" font-size="15" letter-spacing="2">SYSTEM ONLINE</text>
+<text x="1213" y="52" text-anchor="end" fill="#54738a" font-family="Consolas,Monaco,monospace" font-size="14">PROFILE / 2026</text>
+<!-- headline -->
+<text x="69" y="149" fill="#e6fbff" font-family="Arial,sans-serif" font-size="65" font-weight="800" letter-spacing="3" clip-path="url(#reveal)">FAHAD FARRUKH</text>
+<rect x="69" y="174" width="86" height="4" rx="2" fill="#22d3ee"/>
+<rect x="163" y="174" width="34" height="4" rx="2" fill="#818cf8"/>
+<text x="69" y="224" fill="url(#aqua)" font-family="Arial,sans-serif" font-size="26" font-weight="700" letter-spacing="1.6">AI &amp; DATA ENGINEER</text>
+<text x="69" y="260" fill="#a8c4d0" font-family="Consolas,Monaco,monospace" font-size="16">Research  /  Intelligent Systems  /  Software Engineering<tspan fill="#40ebdb" class="blink">_</tspan></text>
+<rect x="69" y="289" width="310" height="38" rx="18" fill="#0c2430" stroke="#1e6370"/><circle cx="90" cy="308" r="5" fill="#47f9cc"/><text x="108" y="314" fill="#d1eef3" font-family="Arial,sans-serif" font-size="15" font-weight="600">LILLE, FRANCE</text><text x="248" y="314" fill="#7da9bc" font-family="Arial,sans-serif" font-size="13">/ BIG DATA MSc</text>
+<text x="69" y="375" fill="#63899b" font-family="Consolas,Monaco,monospace" font-size="13" letter-spacing="2">BUILD  •  RESEARCH  •  DEPLOY  •  ANALYZE</text>
+<!-- animated graph on the right -->
+<g class="drift">
+  <circle cx="1060" cy="191" r="142" stroke="#18a8b6" stroke-opacity=".26" fill="none" stroke-dasharray="4 13"/>
+  <circle cx="1060" cy="191" r="112" stroke="#47eddb" stroke-opacity=".15" fill="none" stroke-dasharray="2 9"/>
+  <circle cx="1060" cy="191" r="80" stroke="#818cf8" stroke-opacity=".13" fill="none"/>
+  <g class="orbit" opacity=".45"><ellipse cx="1060" cy="191" rx="150" ry="60" transform="rotate(-25 1060 191)" fill="none" stroke="#34d7e6" stroke-width="1.2"/></g>
+  <g stroke="#18dfe7" stroke-width="1.2" stroke-opacity=".35" fill="none">
+    <path d="M908 105L974 149L1043 86L1112 137L1189 94L1239 173L1173 253L1105 308L1005 279L929 218L908 105"/>
+    <path d="M974 149L1041 195L1112 137L1173 253L1041 195L1005 279L929 218L974 149M1043 86L1041 195L1105 308L1239 173L1189 94L1112 137"/>
+  </g>
+  <g stroke="url(#aqua)" stroke-width="2.5" stroke-dasharray="6 20" opacity=".85" class="flow" fill="none"><path d="M908 105L974 149L1041 195L1173 253"/><path d="M1043 86L1112 137L1189 94"/><path d="M929 218L1005 279L1105 308"/></g>
+  <g fill="#1d4658" stroke="#56f2ef" stroke-width="2"><circle cx="908" cy="105" r="6"/><circle cx="974" cy="149" r="8"/><circle cx="1043" cy="86" r="6"/><circle cx="1112" cy="137" r="7"/><circle cx="1189" cy="94" r="6"/><circle cx="1239" cy="173" r="6"/><circle cx="1173" cy="253" r="8"/><circle cx="1105" cy="308" r="6"/><circle cx="1005" cy="279" r="8"/><circle cx="929" cy="218" r="6"/></g>
+  <circle cx="1041" cy="195" r="26" fill="#0b2330" stroke="#31edf0" stroke-width="2"/><circle cx="1041" cy="195" r="13" fill="#20d4e5" opacity=".55" class="pulse"/><circle cx="1041" cy="195" r="5" fill="#e7ffff"/>
+  <text x="1041" y="250" font-family="Consolas,Monaco,monospace" fill="#9fd3e0" font-size="11" text-anchor="middle" letter-spacing="2">NEURAL SYSTEM</text>
+</g>
+</svg>

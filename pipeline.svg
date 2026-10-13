@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="255" viewBox="0 0 1280 255" role="img" aria-label="Animated data engineering and AI system pipeline: Sources to Lakehouse to Machine Learning to Intelligent Apps">
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07111d"/><stop offset="1" stop-color="#061c23"/></linearGradient>
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#12b8aa"/><stop offset=".52" stop-color="#22d3ee"/><stop offset="1" stop-color="#a78bfa"/></linearGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="3"/></filter>
+</defs>
+<style>@keyframes stream{to{stroke-dashoffset:-96}}@keyframes pulse{0%,100%{opacity:.5}50%{opacity:1}}@keyframes bob{0%,100%{transform:translateY(0px)}50%{transform:translateY(-3px)}}@media(prefers-reduced-motion:reduce){*{animation:none!important}}.wire{animation:stream 3.5s linear infinite}.pulse{animation:pulse 2.4s ease-in-out infinite}.bob{animation:bob 3.9s ease-in-out infinite}</style>
+<rect x="1" y="1" width="1278" height="253" rx="15" fill="url(#bg)" stroke="#1c7281" stroke-width="2"/>
+<text x="38" y="44" fill="#d4f7ff" font-size="23" font-family="Arial,sans-serif" font-weight="700" letter-spacing="1.3">FROM RAW DATA TO INTELLIGENT SYSTEMS</text>
+<text x="39" y="69" fill="#7092a3" font-size="13" font-family="Consolas,monospace" letter-spacing="1.2">INGEST  //  TRANSFORM  //  LEARN  //  DELIVER</text>
+<g stroke="#31d7e4" stroke-width="3.5" fill="none" stroke-dasharray="9 15" class="wire"><path d="M272 152H361"/><path d="M573 152H664"/><path d="M873 152H966"/></g>
+<g font-family="Arial,sans-serif">
+<rect x="35" y="101" width="237" height="105" rx="11" fill="#0a2231" stroke="#185e72" stroke-width="1.5"/>
+<rect x="361" y="101" width="212" height="105" rx="11" fill="#0a2231" stroke="#1d8190" stroke-width="1.5"/>
+<rect x="664" y="101" width="209" height="105" rx="11" fill="#0e2536" stroke="#5071b6" stroke-width="1.5"/>
+<rect x="966" y="101" width="279" height="105" rx="11" fill="#102236" stroke="#6a67ae" stroke-width="1.5"/>
+<g class="pulse"><circle cx="66" cy="128" r="9" fill="#3df1cf" opacity=".8"/><circle cx="392" cy="128" r="9" fill="#40dde6" opacity=".8"/><circle cx="695" cy="128" r="9" fill="#7caefa" opacity=".8"/><circle cx="997" cy="128" r="9" fill="#a78bfa" opacity=".8"/></g>
+<text x="85" y="134" fill="#7cf6de" font-size="18" font-weight="700">01 / SOURCES</text>
+<text x="412" y="134" fill="#6ee7ef" font-size="18" font-weight="700">02 / LAKEHOUSE</text>
+<text x="715" y="134" fill="#a8bff9" font-size="18" font-weight="700">03 / AI + ML</text>
+<text x="1018" y="134" fill="#c6b6fc" font-size="18" font-weight="700">04 / APPLICATIONS</text>
+<text x="53" y="159" fill="#a1b5c2" font-size="14">SQL · APIs · Documents</text>
+<text x="379" y="159" fill="#a1b5c2" font-size="14">Bronze / Silver / Gold</text>
+<text x="681" y="159" fill="#a1b5c2" font-size="14">RAG · NLP · Prediction</text>
+<text x="983" y="159" fill="#a1b5c2" font-size="14">Agents · BI · Voice · APIs</text>
+<text x="53" y="183" fill="#627d90" font-size="12" font-family="Consolas,monospace">INGEST</text><text x="379" y="183" fill="#627d90" font-size="12" font-family="Consolas,monospace">MODEL</text><text x="681" y="183" fill="#627d90" font-size="12" font-family="Consolas,monospace">REASON</text><text x="983" y="183" fill="#627d90" font-size="12" font-family="Consolas,monospace">ACTIVATE</text>
+</g>
+</svg>
